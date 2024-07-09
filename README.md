@@ -1,5 +1,6 @@
 # ewf-tools v20230405
-Pre-compiled binaries of ewftools for windows x64
+Pre-compiled binaries of ewftools for windows x64.
+Original Project: https://github.com/libyal/libewf
 
 ## ewfacquire
 ```
